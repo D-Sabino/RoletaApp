@@ -33,5 +33,5 @@ O **RoletaApp** é um aplicativo Flutter que simula uma roleta interativa. Ele p
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/d-sabino/roleta-app.git
+   git clone https://github.com/D-Sabino/RoletaApp.git
    cd roleta-app
