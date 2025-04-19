@@ -1,0 +1,2 @@
+# RoletaApp
+ Aplicativo de roleta.
