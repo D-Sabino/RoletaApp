@@ -73,16 +73,6 @@ O **RoletaApp** é um aplicativo Flutter que simula uma roleta interativa. Ele p
 
 ---
 
-## 🖼️ Capturas de Tela
-
-### Tela Inicial
-![Tela Inicial](https://via.placeholder.com/300x600?text=Tela+Inicial)
-
-### Tela da Roleta
-![Tela da Roleta](https://via.placeholder.com/300x600?text=Tela+da+Roleta)
-
----
-
 ## 🔧 Personalização
 
 - **Cores e Temas**:
